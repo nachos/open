@@ -22,7 +22,7 @@
     "packages"
   ],
   "author": "Nachos team",
-  "license": "GNU GPLv3",
+  "license": "GNU GPLv2",
   "bugs": {
     "url": "https://github.com/nachos/open/issues"
   },
