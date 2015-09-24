@@ -88,7 +88,7 @@ describe('nachos-open', function () {
       });
     });
 
-    describe('', function () {
+    describe('with main path', function () {
       beforeEach(function () {
         var packagesMock = {
           getPackage: sinon.stub().returns(Q.resolve({
