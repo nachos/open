@@ -16,7 +16,7 @@ Open nachos packages
   <tbody>
     <tr>
       <td colspan="2" align="center">
-        <a href="https://travis-ci.org/nachos/open"><img src="https://img.shields.io/travis/nachos/['a', 'r', 'g', 's']open.svg?style=flat-square"></a>
+        <a href="https://travis-ci.org/nachos/open"><img src="https://img.shields.io/travis/nachos/open.svg?style=flat-square"></a>
       </td>
       <td align="center">
         <a href="https://ci.appveyor.com/project/nachos/open"><img src="https://img.shields.io/appveyor/ci/nachos/open.svg?style=flat-square"></a>
